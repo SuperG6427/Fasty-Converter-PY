@@ -15,7 +15,3 @@ La interacción se realiza a través de un menú interactivo que guía al usuari
 2. **Configuración de Rutas:** Defina el origen de los activos y el directorio de salida.
 3. **Selección:** Marque los archivos deseados utilizando las herramientas de filtrado integradas.
 4. **Ejecución:** Confirme los parámetros de calidad y metadatos para iniciar el proceso.
-
-## Configuración
-El programa requiere un entorno de ejecución con **Python 3.6+** y las dependencias listadas en el archivo de requerimientos.
-* **Permisos:** El usuario debe poseer privilegios de escritura en las carpetas de destino seleccionadas.
